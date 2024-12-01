@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build",
+  "command": "/usr/bin/g++  -I\"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src\" -g -g -std=c++17 -O2 -o CMakeFiles/compiler.dir/src/main.cpp.o -c \"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/main.cpp\"",
+  "file": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/main.cpp"
+},
+{
+  "directory": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build",
+  "command": "/usr/bin/g++  -I\"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src\" -g -g -std=c++17 -O2 -o CMakeFiles/compiler.dir/src/parser/SyntaxAnalyse.cpp.o -c \"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/SyntaxAnalyse.cpp\"",
+  "file": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/SyntaxAnalyse.cpp"
+},
+{
+  "directory": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build",
+  "command": "/usr/bin/g++  -I\"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src\" -g -g -std=c++17 -O2 -o CMakeFiles/compiler.dir/src/parser/SyntaxTree.cpp.o -c \"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/SyntaxTree.cpp\"",
+  "file": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/SyntaxTree.cpp"
+},
+{
+  "directory": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build",
+  "command": "/usr/bin/g++  -I\"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src\" -g -g -std=c++17 -O2 -o CMakeFiles/compiler.dir/src/parser/lexer.cpp.o -c \"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/lexer.cpp\"",
+  "file": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/lexer.cpp"
+},
+{
+  "directory": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build",
+  "command": "/usr/bin/g++  -I\"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src\" -g -g -std=c++17 -O2 -o CMakeFiles/compiler.dir/src/parser/parser.cpp.o -c \"/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/parser.cpp\"",
+  "file": "/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/src/parser/parser.cpp"
+}
+]

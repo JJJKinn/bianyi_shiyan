@@ -1,0 +1,3 @@
+/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build/CMakeFiles/compiler.dir
+/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build/CMakeFiles/edit_cache.dir
+/home/ian/下载/shiyan_2+(2)(1)/shiyan_2/build/CMakeFiles/rebuild_cache.dir
